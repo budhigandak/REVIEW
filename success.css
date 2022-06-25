@@ -183,4 +183,7 @@ p {
     .form_part {
         font-size: 11px
     }
+    .form_part>.btn {
+        font-size: 9px;
+    }
 }
